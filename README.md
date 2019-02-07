@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/SpringBoot-AOP-API-call-counter.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/SpringBoot-AOP-API-call-counter)
+
 # API-call-count-using-Springboot-AOP
 
 Usage of Spring AOP to count/log the API calls
